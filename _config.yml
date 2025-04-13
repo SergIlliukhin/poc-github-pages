@@ -6,13 +6,16 @@ url: "https://sergilliukhin.github.io" # the base hostname & protocol for your s
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: /:title/
+permalink: /:basename/
 
 # Collections
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:basename/
+  posts:
+    output: true
+    permalink: /:basename/
 
 # Default front matter
 defaults:
