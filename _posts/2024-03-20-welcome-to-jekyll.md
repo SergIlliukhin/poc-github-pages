@@ -1,6 +1,6 @@
 ---
 title: welcome-to-jekyll
-date: 2024-03-20
+display_title: Welcome to Jekyll
 layout: post
 ---
 

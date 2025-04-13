@@ -1,6 +1,6 @@
 ---
 title: getting-started-with-github-pages
-date: 2024-03-21
+display_title: Getting Started with GitHub Pages
 layout: post
 ---
 
