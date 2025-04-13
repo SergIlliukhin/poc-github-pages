@@ -6,7 +6,7 @@ coverImage: /assets/images/home-cover.svg
 
 # Welcome to My Jekyll Site
 
-This is a sample Jekyll site built for GitHub Pages. Browse through our [pages](/pages/) or read our latest [blog posts](/posts/).
+This is a sample Jekyll site built for GitHub Pages.
 
 ## Recent Posts
 
