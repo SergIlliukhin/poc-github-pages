@@ -16,6 +16,8 @@ collections:
   posts:
     output: true
     permalink: /:title/
+    sort_by: date
+    sort_direction: descending
 
 # Default front matter
 defaults:
