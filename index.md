@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+coverImage: /assets/images/home-cover.svg
 ---
 
 # Welcome to My Jekyll Site

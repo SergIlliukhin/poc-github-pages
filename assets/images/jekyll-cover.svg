@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1200" height="630" fill="#2B2B2B"/>
-    <text x="600" y="315" font-family="Arial" font-size="60" fill="white" text-anchor="middle">
+<svg width="380" height="200" viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="380" height="200" fill="#2B2B2B"/>
+    <text x="190" y="100" font-family="Arial" font-size="30" fill="white" text-anchor="middle">
         Welcome to Jekyll
     </text>
 </svg> 
