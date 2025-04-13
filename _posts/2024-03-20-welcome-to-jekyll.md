@@ -1,6 +1,5 @@
 ---
-title: welcome-to-jekyll
-display_title: Welcome to Jekyll
+title: Welcome to Jekyll
 layout: post
 ---
 

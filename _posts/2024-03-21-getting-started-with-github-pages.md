@@ -1,6 +1,5 @@
 ---
-title: getting-started-with-github-pages
-display_title: Getting Started with GitHub Pages
+title: Getting Started with GitHub Pages
 layout: post
 ---
 
