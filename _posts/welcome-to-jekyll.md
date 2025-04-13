@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll
+title: welcome-to-jekyll
 date: 2024-03-20
 layout: post
 ---

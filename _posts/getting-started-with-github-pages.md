@@ -1,5 +1,5 @@
 ---
-title: Getting Started with GitHub Pages
+title: getting-started-with-github-pages
 date: 2024-03-21
 layout: post
 ---
