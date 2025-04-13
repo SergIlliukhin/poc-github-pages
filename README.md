@@ -6,7 +6,6 @@ A simple static website built with Jekyll and deployed with GitHub Pages.
 
 - `_pages/`: Contains static pages like About and Contact
 - `_posts/`: Contains blog posts
-- `.github/workflows/`: Contains GitHub Actions workflow for deployment
 - `_config.yml`: Jekyll configuration file
 - `Gemfile`: Ruby dependencies
 
@@ -30,7 +29,7 @@ bundle exec jekyll serve
 
 ## Deployment
 
-This site is automatically deployed to GitHub Pages when changes are pushed to the main branch. The GitHub Actions workflow handles the build and deployment process.
+This site is automatically deployed to GitHub Pages when changes are pushed to the main branch. GitHub Pages will automatically build and deploy your site when you push changes to your repository.
 
 ## Adding Content
 

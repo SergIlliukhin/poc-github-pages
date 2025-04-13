@@ -5,28 +5,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
+theme: minima
 permalink: /:title/
-
-# GitHub Pages specific settings
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 # Collections
 collections:
   pages:
     output: true
     permalink: /:path/
-  posts:
-    output: true
-    permalink: /:title/
 
 # Default front matter
 defaults:
@@ -45,7 +31,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Exclude from processing
 exclude:
