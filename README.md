@@ -46,12 +46,17 @@ layout: page
 
 ### Adding a new post
 1. Create a new markdown file in the `_posts` directory with the naming convention `YYYY-MM-DD-title.md`
-2. Add front matter with title, date, and layout:
+2. Add front matter with title and layout:
 ```
 ---
 title: Your Post Title
-date: YYYY-MM-DD
 layout: post
 ---
 ```
-3. Add your content 
+3. Add your content
+
+## URL Structure
+
+- Pages are accessible at `/:title/` (e.g., `/about/`)
+- Posts are accessible at `/:name/` where `:name` is the filename without the date prefix (e.g., `2024-03-20-welcome.md` becomes `/welcome/`)
+- The site is served at `https://sergilliukhin.github.io/poc-github-pages/` 
