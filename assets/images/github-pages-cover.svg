@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="380" height="200" viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg">
     <rect width="380" height="200" fill="#24292E"/>
-    <text x="190" y="100" font-family="Arial" font-size="30" fill="white" text-anchor="middle">
+    <text x="190" y="100" font-family="Arial" font-size="30" fill="white" text-anchor="middle" dominant-baseline="middle">
         GitHub Pages
     </text>
 </svg> 
