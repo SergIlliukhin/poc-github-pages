@@ -1,6 +1,7 @@
 ---
 title: Welcome to Jekyll
 layout: post
+coverImage: /assets/images/jekyll-cover.svg
 ---
 
 # Welcome to Jekyll!

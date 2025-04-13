@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+coverImage: /assets/images/about-cover.svg
 ---
 
 # About This Site

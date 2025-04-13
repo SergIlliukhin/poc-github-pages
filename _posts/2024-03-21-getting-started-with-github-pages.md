@@ -1,6 +1,7 @@
 ---
 title: Getting Started with GitHub Pages
 layout: post
+coverImage: /assets/images/github-pages-cover.svg
 ---
 
 # Getting Started with GitHub Pages

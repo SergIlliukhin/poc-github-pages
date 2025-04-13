@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+coverImage: /assets/images/contact-cover.svg
 ---
 
 # Contact Us
